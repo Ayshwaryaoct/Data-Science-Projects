@@ -25,27 +25,27 @@ Dataset is built by extracting values using Selenium , as web crawler. Variables
 Following algorithms will be implemented: <br/>
 
 
-Multivariate Regression 
-Random Forest
-Logistic Regression
-Naive Bayes
-KNN
+Multivariate Regression  <br/>
+Decision Tree  <br/>
+Random Forest <br/>
+Logistic Regression <br/>
+Naive Bayes <br/>
+KNN <br/>
 
 
-Evaluation metrics: -
-Here we will use F1-score, RMSE, confusion matrix and ROC curve to evaluate the performance of our model.
+Evaluation metrics: -  <br/>
+Here we will use F1-score, RMSE, Accuracy , Precision , Recall and ROC curve to evaluate the performance of our model.
 
-Deployment: -
+Deployment: -  <br/>
 Planned to deploy this project using a web service.
 Success metrics, Statistical models and KPIs
 Statistical models:	Random forest algorithm, KNN  algorithm and Time series forecasting to train and test the data. 
-
-Model Evaluation:	F1-Score, RMSE, Accuracy , Precision , Recall , Confusion matrix and ROC curve
-Deliverables
-Source code
-Project Report
-Relevant graphs and metrics.
-Visualizations
-
-Project Planning
+<br/>
+Deliverables <br/>
+Source code<br/>
+Project Report<br/>
+Relevant graphs and metrics.<br/>
+Visualizations<br/>
+<br/>
+Project Planning <br/>
 Asana is being used for the project planning.
