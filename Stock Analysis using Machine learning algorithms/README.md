@@ -22,7 +22,7 @@ Dataset is built by extracting values using Selenium , as web crawler. Variables
 
 
 
-Following algorithms will be implemented:
+Following algorithms will be implemented: <br/>
 
 
 Multivariate Regression 
