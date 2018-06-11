@@ -8,5 +8,6 @@ get all the nouns [singular plural]. For every noun identified , find if is an s
 existing lexical chain. If so add that noun to that chain. Else form a new chain. Finally once again scan the entire text to find 
 out the sentences which has most of the words found in the longest chains. These sentences are joined together to give out a text summary.
 </br>
+</br>
 Language used - Python. </br>
 Resources used - Spyder and Wordnet
