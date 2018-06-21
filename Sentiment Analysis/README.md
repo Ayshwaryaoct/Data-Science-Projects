@@ -1,5 +1,6 @@
 #### Sentiment analysis done to classify the text </br>
-===================================================
+=======================================
+</br>
 </br>
 In this Project I have implemented and evaluated the naive Bayes algorithm for text classification.  I have 
 trained models on a IMDB movie review dataset of positive  and  negative  movie reviews and predicted  accuracy  on a test set.  
