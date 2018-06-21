@@ -1,4 +1,4 @@
-#### Sentiment analysis done to classify the text #### </br>
+#### Sentiment analysis done to classify the text </br>
 ===================================================
 </br>
 In this Project I have implemented and evaluated the naive Bayes algorithm for text classification.  I have 
