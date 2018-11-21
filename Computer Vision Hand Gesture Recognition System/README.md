@@ -2,8 +2,8 @@ Gestures are the actions that convey a meaningful message
 
 Computer vision is being widely used for gesture detection 
 and classification, and various approaches have been proposed 
-to support simple applications. Here in this project, I am
-planning to capture the live hand gesture using the webcam, 
+to support simple applications. Here in this project, I have 
+captured the live hand gesture using the webcam, 
 say showing numbers, closed fist, and then go through the 
 recognition process and classify the result.
 
